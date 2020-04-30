@@ -25,6 +25,8 @@
 画像の投稿、撮影機材のレンタル
 
 ## VERSION
+### Wireframe
+
 ### ER
 https://drive.google.com/file/d/1lHVgFztjMy5kesbXXJVbGsWB1UKWVqhm/view?usp=sharing
 ### List of Features
