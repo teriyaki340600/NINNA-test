@@ -26,11 +26,11 @@
 
 ## VERSION
 ### ER(未完成)
-https://drive.google.com/file/d/1lHVgFztjMy5kesbXXJVbGsWB1UKWVqhm/view?usp=sharing
+https://drive.google.com/file/d/1F-tWoLm_ZeHgffzwJvubUl7sW3iDf1vH/view?usp=sharing
 
 ### Wire Frame（未完成）
 ・ユーザー側
-https://drive.google.com/file/d/125BUCZfDEuZ9HoQ1gMT02OpOtD1Iyo7P/view?usp=sharing  <br>
+https://drive.google.com/file/d/1j-gdEWvUZqbFmlkMJPqyHOyrUHMK0jlI/view?usp=sharing  <br>
 ・管理者側
 
 ### List of Features
