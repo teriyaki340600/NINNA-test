@@ -33,6 +33,9 @@ https://drive.google.com/file/d/1F-tWoLm_ZeHgffzwJvubUl7sW3iDf1vH/view?usp=shari
 https://drive.google.com/file/d/1j-gdEWvUZqbFmlkMJPqyHOyrUHMK0jlI/view?usp=sharing  <br>
 ・管理者側
 
+###テーブル定義書(未完成)
+https://drive.google.com/file/d/10itPQRQG0TXU_SbxYgYaWjvefhHhOBo_/view?usp=sharing
+
 ### List of Features
 https://docs.google.com/spreadsheets/d/18sqA3soViRUk87PJ4SHhrQvYM9Z2Amt3EGQ6o259c80/edit#gid=0
 
